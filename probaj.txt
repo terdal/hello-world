@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 proba for lajf na master branch
+=======
+proba for lajf na toni branch
+>>>>>>> toni
